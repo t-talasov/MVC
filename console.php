@@ -3,7 +3,7 @@
 
 include 'vendor/autoload.php';
 
-$pass = 'w21w21njinji';
+$pass = 'kopkop3232';
 
 $ig = new \InstagramAPI\Instagram(true, true);
 $ig->login('w_w884', $pass);
